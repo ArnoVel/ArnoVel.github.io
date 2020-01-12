@@ -8,7 +8,7 @@ title: Welcome to my personal webpage!
 
 ## Short Bio
 
-![Norway Fjords](./img/DSC_0524.JPG){: style="transform:rotate(270deg); float: right;margin-left: 150px;margin-top: 30px;" width="50%"}
+![Norway Fjords](./img/DSC_0524.JPG){: style="transform:rotate(270deg); float: right" width="50%"}
 
 I am an engineering student currently working on topics connected to Machine Learning, Data Mining and Causal Discovery.
 
@@ -17,6 +17,10 @@ I am an engineering student currently working on topics connected to Machine Lea
 * Classes Préparatoires CPE-Lyon (2014-2016)
 * INSA-Lyon (2016-Now)
 * Shanghai Jiaotong U. (2018-Now)
+
+During these years, I studied topics as varied as
+Signal Processing, Statistics, Computer Science,  
+Machine Learning and Networking.
 
 ## Information
 
