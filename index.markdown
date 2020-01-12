@@ -4,3 +4,16 @@
 
 layout: home
 ---
+
+# Welcome to my personal webpage!
+
+
+## Short Bio
+
+![Norway Fjords](./img/DSC_0524.JPG){: style="transform:rotate(270deg); float: right;margin-right: 20px;margin-top: 20px;" width="50%"}
+
+I am an engineering student currently working on topics connected to Machine Learning, Data Mining and Causal Discovery. 
+
+## Information
+
+For more information, contact me through my email address.
