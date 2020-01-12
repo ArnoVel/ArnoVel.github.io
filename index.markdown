@@ -12,6 +12,12 @@ title: Welcome to my personal webpage!
 
 I am an engineering student currently working on topics connected to Machine Learning, Data Mining and Causal Discovery. 
 
+## Education
+
+* Classes Préparatoires CPE-Lyon (2014-2016)
+* INSA-Lyon Télécom (2016-Now)
+* Shanghai Jiaotong U. (2018-Now)
+
 ## Information
 
 For more information, contact me through my email address.
