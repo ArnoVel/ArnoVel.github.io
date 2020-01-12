@@ -15,9 +15,13 @@ I am an engineering student currently working on topics connected to Machine Lea
 ## Education
 
 * Classes Préparatoires CPE-Lyon (2014-2016)
-* INSA-Lyon Télécom (2016-Now)
+* INSA-Lyon (2016-Now)
 * Shanghai Jiaotong U. (2018-Now)
 
 ## Information
 
-For more information, contact me through my email address.
+For more information,
+do not hesitate to contact me.
+The address I consult most frequently is
+arno.vel1996@gmail.com, but in case I don't
+answer, try arnovel@sjtu.edu.cn
